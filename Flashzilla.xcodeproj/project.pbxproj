@@ -13,6 +13,7 @@
 		52524FEA2ACC7A62003C023F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52524FE92ACC7A62003C023F /* ContentView.swift */; };
 		52524FEC2ACC7A64003C023F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52524FEB2ACC7A64003C023F /* Assets.xcassets */; };
 		52524FEF2ACC7A64003C023F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52524FEE2ACC7A64003C023F /* Preview Assets.xcassets */; };
+		527FDDE62AD86824009516F8 /* EditCards.swift in Sources */ = {isa = PBXBuildFile; fileRef = 527FDDE52AD86824009516F8 /* EditCards.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		52524FE92ACC7A62003C023F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		52524FEB2ACC7A64003C023F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		52524FEE2ACC7A64003C023F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		527FDDE52AD86824009516F8 /* EditCards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditCards.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				52524FED2ACC7A64003C023F /* Preview Content */,
 				5211CC672AD468F0006BFEB3 /* Card.swift */,
 				5211CC692AD46B50006BFEB3 /* CardView.swift */,
+				527FDDE52AD86824009516F8 /* EditCards.swift */,
 			);
 			path = Flashzilla;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 				52524FEA2ACC7A62003C023F /* ContentView.swift in Sources */,
 				5211CC682AD468F0006BFEB3 /* Card.swift in Sources */,
 				5211CC6A2AD46B50006BFEB3 /* CardView.swift in Sources */,
+				527FDDE62AD86824009516F8 /* EditCards.swift in Sources */,
 				52524FE82ACC7A62003C023F /* FlashzillaApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
